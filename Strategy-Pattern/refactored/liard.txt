@@ -1,0 +1,33 @@
+Liard Spring, Inc.
+Report Date: Dec 20, 2017
+Period: November 2017
+Nov 1	1254.56
+Nov 2	1889.25
+Nov 3	2510.13
+Nov 4	2064.3
+Nov 5	1634.06
+Nov 6	1348.92
+Nov 7	
+Nov 8	2450.56
+Nov 9	2044.5
+Nov 10	2611.12
+Nov 11	2687.59
+Nov 12	2151.3
+Nov 13	2010.59
+Nov 14	
+Nov 15	1714.97
+Nov 16	1459.73
+Nov 17	2589.76
+Nov 18	1488.21
+Nov 19	1767.49
+Nov 20	1748.66
+Nov 21	
+Nov 22	1272.76
+Nov 23	2978.18
+Nov 24	2436.62
+Nov 25	1429.61
+Nov 26	2463.19
+Nov 27	1954.14
+Nov 28	
+Nov 29	1932.61
+Nov 30	1703.76
