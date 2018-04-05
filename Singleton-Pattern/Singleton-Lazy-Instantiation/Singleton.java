@@ -18,6 +18,6 @@ public class Singleton {
    }
    
    public String doSomething() {
-      System.out.println("I'm a Singleton.");
+      return "I'm a Singleton.";
    }
 }
